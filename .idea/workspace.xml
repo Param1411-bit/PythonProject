@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36ffdcda-c27d-4f2b-9a29-77b484e3a5ad" name="Changes" comment="Added a lot of code" />
+    <list default="true" id="36ffdcda-c27d-4f2b-9a29-77b484e3a5ad" name="Changes" comment="Added a lot of functionality">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,12 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1772646335375</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added a lot of functionality">
+      <option name="closed" value="true" />
+      <created>1772646558478</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772646558478</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added a lot of code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a lot of code" />
+    <MESSAGE value="Added a lot of functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a lot of functionality" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -99,7 +111,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/app.py</url>
-          <line>35</line>
+          <line>61</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
